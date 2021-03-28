@@ -5,7 +5,7 @@
 - FoolBox [https://github.com/bethgelab/foolbox]: 找the worst-case很发方便
 - cleverhans [https://github.com/cleverhans-lab/cleverhans]: 收录了benchmark的attck, 社区活跃
 - advertorch [https://github.com/BorealisAI/advertorch]: 很久没维护了
-- torchattack [https://github.com/Harry24k/adversarial-attacks-pytorch]: 各种重要的攻击方法很全，最近都在更新。
+- torchattack [https://github.com/Harry24k/adversarial-attacks-pytorch]: 各种重要的攻击方法很全，生成对抗样本的速度对比了ART和FB，torchattack最快。
 
 ## 论文：
 - On Evaluating Adversarial Robustness [https://github.com/evaluating-adversarial-robustness/adv-eval-paper]: 开源，可以去贡献
